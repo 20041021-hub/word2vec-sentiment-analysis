@@ -1,0 +1,6 @@
+nltk
+pandas
+gensim
+scikit-learn
+joblib
+numpy
